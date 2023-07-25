@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @andriyshykoryak
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on new django project
-- 📫 How to reach me, not being russians
+- 👋 Hi, I’m @andriyshykorya
 
 <!---
 andriyshykoryak/andriyshykoryak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
